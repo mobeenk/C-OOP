@@ -44,7 +44,7 @@ namespace oop
         {
             Student s1 = new Student(1,11,"ali",24);
             s1.Name = "Husein";
-            
+            String s;
             Console.WriteLine(s1.No+" "+s1.Name);
             String s = "name1";
             String s2 = "name2";
